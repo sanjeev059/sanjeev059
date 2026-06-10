@@ -5,7 +5,7 @@
 
 ---
 
-# What I do
+## 🚀 What I do
 
 10+ years building and operating large-scale cloud infrastructure on AWS.  
 Currently at **Reliance Jio** — owned end-to-end AWS deployment of **MyJio, JioCinema, and JioTalkies** across **100+ microservices** serving hundreds of millions of users.
@@ -30,6 +30,7 @@ Now formally transitioning into **AI/MLOps Platform Engineering** — building r
 **AI/MLOps (Building)**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ---
 
@@ -54,11 +55,17 @@ Now formally transitioning into **AI/MLOps Platform Engineering** — building r
 
 ---
 
+## 📊 GitHub Stats
+
+![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeev059&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev059&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-desai-95615349/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanjeevdesai538
-@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanjeevdesai538@gmail.com)
 
 ---
 
